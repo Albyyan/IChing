@@ -1,0 +1,321 @@
+question,label
+Is the Earth round?,closed
+Is water wet?,closed
+Is fire hot?,closed
+Is ice colder than water?,closed
+Is Python a programming language?,closed
+Is Java statically typed?,closed
+Is JavaScript single-threaded?,closed
+Is Linux open source?,closed
+Is HTML a programming language?,closed
+Is CSS used for styling?,closed
+Is Australia a country?,closed
+Is Sydney the capital of Australia?,closed
+Is Canberra the capital of Australia?,closed
+Is Tokyo in Japan?,closed
+Is Paris in France?,closed
+Is Mount Everest the tallest mountain on Earth?,closed
+Is the Pacific Ocean the largest ocean?,closed
+Is the Sun a star?,closed
+Is Pluto classified as a planet?,closed
+Is Mars known as the red planet?,closed
+Is oxygen necessary for human survival?,closed
+Is carbon a chemical element?,closed
+Is gold a metal?,closed
+Is sodium chloride salt?,closed
+Is water H2O?,closed
+Is zero an even number?,closed
+Is one a prime number?,closed
+Is two the smallest prime number?,closed
+Is infinity a number?,closed
+Is light faster than sound?,closed
+Is sound a wave?,closed
+Is gravity a force?,closed
+Is time measured in seconds?,closed
+Is a year longer than a month?,closed
+Is a triangle a polygon?,closed
+Is a square a rectangle?,closed
+Is a rectangle a square?,closed
+Is a circle a polygon?,closed
+Is π approximately 3.14?,closed
+Is algebra a branch of mathematics?,closed
+Is calculus used in physics?,closed
+Is history the study of the past?,closed
+Is philosophy concerned with fundamental questions?,closed
+Is economics the study of scarcity?,closed
+Is psychology the study of the mind?,closed
+Is sociology the study of society?,closed
+Is biology the study of living organisms?,closed
+Is chemistry about matter?,closed
+Is physics about energy and matter?,closed
+Is astronomy the study of space?,closed
+Is medicine related to health?,closed
+Is law concerned with rules?,closed
+Is democracy a form of government?,closed
+Is monarchy a form of government?,closed
+Is capitalism an economic system?,closed
+Is socialism an economic system?,closed
+Is communism an ideology?,closed
+Is the internet a network?,closed
+Is email a form of communication?,closed
+Is WiFi wireless?,closed
+Is Bluetooth a communication protocol?,closed
+Is TCP a transport protocol?,closed
+Is UDP connectionless?,closed
+Is HTTP stateless?,closed
+Is HTTPS secure?,closed
+Is encryption used for security?,closed
+Is hashing reversible?,closed
+Is SHA-256 a hash function?,closed
+Is RSA an encryption algorithm?,closed
+Is AES symmetric encryption?,closed
+Is machine learning a subset of AI?,closed
+Is deep learning a subset of machine learning?,closed
+Is a neural network inspired by the brain?,closed
+Is training data required for supervised learning?,closed
+Is overfitting a machine learning problem?,closed
+Is underfitting a machine learning problem?,closed
+Is gradient descent an optimization algorithm?,closed
+Is backpropagation used in neural networks?,closed
+Is Python popular in data science?,closed
+Is R used for statistics?,closed
+Is SQL used for databases?,closed
+Is PostgreSQL a relational database?,closed
+Is MongoDB a NoSQL database?,closed
+Is Redis an in-memory store?,closed
+Is Docker used for containerization?,closed
+Is Kubernetes used for orchestration?,closed
+Is Git a version control system?,closed
+Is GitHub a code hosting platform?,closed
+Is open source software free?,closed
+Is proprietary software closed source?,closed
+Is Windows an operating system?,closed
+Is macOS developed by Apple?,closed
+Is Android a mobile operating system?,closed
+Is iOS developed by Apple?,closed
+Is a smartphone a computer?,closed
+Is RAM volatile memory?,closed
+Is ROM non-volatile memory?,closed
+Is a CPU responsible for computation?,closed
+Is a GPU optimized for parallel tasks?,closed
+Is storage slower than memory?,closed
+Is SSD faster than HDD?,closed
+Is cloud computing remote?,closed
+Is AWS a cloud provider?,closed
+Is Azure a cloud provider?,closed
+Is Google Cloud a cloud provider?,closed
+Is virtualization different from containerization?,closed
+Is latency a delay?,closed
+Is bandwidth a measure of capacity?,closed
+Is packet loss undesirable?,closed
+Is DNS used to resolve domain names?,closed
+Is IPv4 older than IPv6?,closed
+Is localhost a loopback address?,closed
+Is 127.0.0.1 a loopback address?,closed
+Is ping used to test connectivity?,closed
+Is traceroute used for path analysis?,closed
+Is cybersecurity about protection?,closed
+Is malware harmful software?,closed
+Is phishing a cyber attack?,closed
+Is ransomware a type of malware?,closed
+Is authentication about identity?,closed
+Is authorization about permissions?,closed
+Is MFA multi-factor authentication?,closed
+Is password reuse risky?,closed
+Is brute force an attack method?,closed
+Is social engineering a security threat?,closed
+Is encryption important for privacy?,closed
+Is data privacy a concern?,closed
+Is GDPR a regulation?,closed
+Is surveillance controversial?,closed
+Is anonymity possible online?,closed
+Is censorship debated?,closed
+Is free speech protected?,closed
+Is hate speech regulated?,closed
+Is defamation illegal?,closed
+Is intellectual property protected?,closed
+Is copyright a legal concept?,closed
+Is a patent a legal right?,closed
+Is a trademark a brand identifier?,closed
+Is plagiarism unethical?,closed
+Is academic integrity important?,closed
+Is cheating discouraged?,closed
+Is education compulsory in many countries?,closed
+Is university optional?,closed
+Is online learning possible?,closed
+Is distance education effective?,closed
+Is homework common?,closed
+Is assessment graded?,closed
+Is an exam a form of assessment?,closed
+Is a degree awarded by a university?,closed
+Is graduation ceremonial?,closed
+Is employment necessary for income?,closed
+Is salary compensation?,closed
+Is inflation rising prices?,closed
+Is deflation falling prices?,closed
+Is recession economic decline?,closed
+Is GDP an economic metric?,closed
+Is unemployment measured?,closed
+Is taxation compulsory?,closed
+Is welfare government support?,closed
+Is healthcare a public issue?,closed
+Is insurance risk sharing?,closed
+Is housing expensive?,closed
+Is rent recurring?,closed
+Is ownership permanent?,closed
+Is climate change real?,closed
+Is global warming related to climate change?,closed
+Is carbon dioxide a greenhouse gas?,closed
+Is renewable energy sustainable?,closed
+Is fossil fuel finite?,closed
+Is solar energy renewable?,closed
+Is wind energy renewable?,closed
+Is nuclear energy controversial?,closed
+Is recycling beneficial?,closed
+Is pollution harmful?,closed
+Is biodiversity important?,closed
+Is extinction irreversible?,closed
+Is conservation necessary?,closed
+Is evolution a scientific theory?,closed
+Is natural selection part of evolution?,closed
+Is mutation random?,closed
+Is adaptation beneficial?,closed
+Is DNA hereditary?,closed
+Is RNA different from DNA?,closed
+Is protein synthesis essential?,closed
+Is metabolism chemical?,closed
+Is respiration necessary?,closed
+Is photosynthesis used by plants?,closed
+Is oxygen a byproduct of photosynthesis?,closed
+Is chlorophyll green?,closed
+Is the sky blue?,closed
+Is the ocean salty?,closed
+Is gravity constant?,closed
+Is time relative?,closed
+Is space expanding?,closed
+Is the universe finite?,closed
+Is the Big Bang a theory?,closed
+Is dark matter observable?,closed
+Is dark energy mysterious?,closed
+Is a black hole dense?,closed
+Is an eclipse predictable?,closed
+Is a leap year every four years?,closed
+Is the calendar standardized?,closed
+Is time zone based?,closed
+Is GMT a reference time?,closed
+Is UTC a time standard?,closed
+Is daylight saving seasonal?,closed
+Is sleep necessary?,closed
+Is dreaming common?,closed
+Is memory fallible?,closed
+Is learning lifelong?,closed
+Is intelligence measurable?,closed
+Is IQ controversial?,closed
+Is creativity innate?,closed
+Is talent developed?,closed
+Is practice important?,closed
+Is motivation internal?,closed
+Is discipline learned?,closed
+Is habit formation gradual?,closed
+Is change constant?,closed
+
+Why do people enjoy horror movies?,open
+Why do humans seek meaning?,open
+Why do societies form laws?,open
+Why do cultures differ?,open
+Why does art matter?,open
+Why do people value freedom?,open
+Why is identity important?,open
+Why do people disagree?,open
+Why do ideologies conflict?,open
+Why does history repeat itself?,open
+Why do humans tell stories?,open
+Why is storytelling powerful?,open
+Why do people seek community?,open
+Why is trust important?,open
+Why do relationships fail?,open
+Why do people fear uncertainty?,open
+Why does power corrupt?,open
+Why is authority questioned?,open
+Why do revolutions occur?,open
+Why is change resisted?,open
+How should I prepare for exams?,open
+How can I improve my coding skills?,open
+How should governments respond to climate change?,open
+How can universities better support students?,open
+How do social media platforms shape identity?,open
+How does technology change society?,open
+How can AI be used ethically?,open
+How should data privacy be protected?,open
+How do economic systems affect inequality?,open
+How can education reduce inequality?,open
+How do cultural norms influence behavior?,open
+How should freedom of speech be regulated?,open
+How can misinformation be addressed?,open
+How should algorithms be governed?,open
+How can bias in AI be reduced?,open
+How do narratives shape politics?,open
+How should history be taught?,open
+How can philosophy inform policy?,open
+How does language influence thought?,open
+How do beliefs shape actions?,open
+What makes a good leader?,open
+What makes a society just?,open
+What defines personal success?,open
+What is a meaningful life?,open
+What makes art valuable?,open
+What makes music emotionally powerful?,open
+What makes a friendship strong?,open
+What qualities build trust?,open
+What defines a healthy relationship?,open
+What makes communication effective?,open
+What factors contribute to happiness?,open
+What role does failure play in growth?,open
+What motivates people to act?,open
+What makes learning effective?,open
+What defines intelligence?,open
+What does freedom mean?,open
+What makes an argument persuasive?,open
+What is ethical responsibility?,open
+What defines fairness?,open
+What makes change sustainable?,open
+Explain why democracy is valued.,open
+Explain the importance of free speech.,open
+Explain how technology affects privacy.,open
+Explain why inequality persists.,open
+Explain how education shapes society.,open
+Explain the role of ethics in AI.,open
+Explain why culture matters.,open
+Explain how power structures form.,open
+Explain the importance of critical thinking.,open
+Explain how narratives influence identity.,open
+Describe the impact of social media.,open
+Describe how globalization affects culture.,open
+Describe the role of institutions.,open
+Describe how technology changes work.,open
+Describe the influence of ideology.,open
+Describe how values are formed.,open
+Describe the importance of community.,open
+Describe the relationship between power and responsibility.,open
+Describe how trust is built.,open
+Describe how norms evolve.,open
+Discuss the pros and cons of remote work.,open
+Discuss the ethics of surveillance.,open
+Discuss the role of government.,open
+Discuss the impact of automation.,open
+Discuss the limits of free speech.,open
+Discuss the future of education.,open
+Discuss the consequences of climate change.,open
+Discuss the risks of AI.,open
+Discuss the role of philosophy today.,open
+Discuss how technology shapes politics.,open
+In what ways does media influence opinion?,open
+In what ways does culture shape identity?,open
+In what ways does power manifest?,open
+In what ways does inequality appear?,open
+In what ways does language matter?,open
+In what ways does art challenge norms?,open
+In what ways does technology mediate relationships?,open
+In what ways does history inform the present?,open
+In what ways does belief guide action?,open
+In what ways does education transform lives?,open
